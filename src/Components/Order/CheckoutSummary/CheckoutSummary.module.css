@@ -1,0 +1,14 @@
+.CheckOut{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.CheckOut>div:nth-child(3){
+    padding-left: 30px;
+}
+
+/* @media(min-width : 600px){
+    .CheckOut{
+        width: 500px;
+    }
+} */
